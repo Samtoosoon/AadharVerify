@@ -1,6 +1,6 @@
 # Aadhaar Card Verification System
 
-[Live Demo](https://grand-florentine-cb2bd6.netlify.app/) | [Demo Video](https://drive.google.com/file/d/1sBvlnlZTaPqozEoOj5n_Rw5C0T9Ee8xq/view)
+[Live Demo](https://grand-florentine-cb2bd6.netlify.app/) | [Demo Video](https://drive.google.com/file/d/1sBvlnlZTaPqozEoOj5n_Rw5C0T9Ee8xq/view) | [Presentation PPT](https://drive.google.com/file/d/1W9sZJQc8m5YnGIGpIEpuS-3nqi2k2qvV/view)
 
 ## Overview
 
